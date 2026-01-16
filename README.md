@@ -18,8 +18,9 @@ I am a student developer building my portfolio.
 <br/>
 
 ### 📊 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neelabh1276&show_icons=true&theme=radical&hide_border=true" alt="Neelabh's GitHub stats" />
+<a href="https://github.com/Neelabh1276">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neelabh1276&show_icons=true&theme=radical&hide_border=true" />
+</a>
 
 <br/>
 
