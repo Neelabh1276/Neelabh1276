@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Neelabh! 👋
 
-<!--
-**Neelabh1276/Neelabh1276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student developer building my portfolio. 
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+- **Web:** HTML, ASP.NET
+- **Desktop:** C#, VB.NET
+- **Scripting:** Python
+- **IDE:** Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+I am exploring GitHub to host my projects and improve my coding workflow!
+
+---
+*Thanks for visiting my profile!*
+
